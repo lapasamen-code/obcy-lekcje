@@ -279,6 +279,11 @@
    "id": "es-b2a",
    "file": "packs/es-b2a.js",
    "v": 1
+  },
+  {
+   "id": "es-b2b",
+   "file": "packs/es-b2b.js",
+   "v": 1
   }
  ]
 }
