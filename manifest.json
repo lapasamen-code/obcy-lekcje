@@ -114,6 +114,11 @@
    "id": "fr-a2a",
    "file": "packs/fr-a2a.js",
    "v": 1
+  },
+  {
+   "id": "fr-a2b",
+   "file": "packs/fr-a2b.js",
+   "v": 1
   }
  ]
 }
