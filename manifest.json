@@ -14,6 +14,11 @@
    "id": "en-b1a",
    "file": "packs/en-b1a.js",
    "v": 1
+  },
+  {
+   "id": "en-b1b",
+   "file": "packs/en-b1b.js",
+   "v": 1
   }
  ]
 }
