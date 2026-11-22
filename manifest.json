@@ -284,6 +284,11 @@
    "id": "es-b2b",
    "file": "packs/es-b2b.js",
    "v": 1
+  },
+  {
+   "id": "es-b2c",
+   "file": "packs/es-b2c.js",
+   "v": 1
   }
  ]
 }
