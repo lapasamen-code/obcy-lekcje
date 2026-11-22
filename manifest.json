@@ -64,6 +64,11 @@
    "id": "en-c1a",
    "file": "packs/en-c1a.js",
    "v": 1
+  },
+  {
+   "id": "en-c1b",
+   "file": "packs/en-c1b.js",
+   "v": 1
   }
  ]
 }
