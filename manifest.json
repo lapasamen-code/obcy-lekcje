@@ -4,6 +4,11 @@
    "id": "en-a2b",
    "file": "packs/en-a2b.js",
    "v": 1
+  },
+  {
+   "id": "en-a2c",
+   "file": "packs/en-a2c.js",
+   "v": 1
   }
  ]
 }
