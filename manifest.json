@@ -294,6 +294,11 @@
    "id": "es-b2d",
    "file": "packs/es-b2d.js",
    "v": 1
+  },
+  {
+   "id": "es-b2e",
+   "file": "packs/es-b2e.js",
+   "v": 1
   }
  ]
 }
