@@ -164,6 +164,11 @@
    "id": "fr-b2b",
    "file": "packs/fr-b2b.js",
    "v": 1
+  },
+  {
+   "id": "fr-b2c",
+   "file": "packs/fr-b2c.js",
+   "v": 1
   }
  ]
 }
