@@ -204,6 +204,11 @@
    "id": "fr-c2a",
    "file": "packs/fr-c2a.js",
    "v": 1
+  },
+  {
+   "id": "fr-c2b",
+   "file": "packs/fr-c2b.js",
+   "v": 1
   }
  ]
 }
