@@ -159,6 +159,11 @@
    "id": "fr-b2a",
    "file": "packs/fr-b2a.js",
    "v": 1
+  },
+  {
+   "id": "fr-b2b",
+   "file": "packs/fr-b2b.js",
+   "v": 1
   }
  ]
 }
