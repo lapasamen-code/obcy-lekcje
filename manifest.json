@@ -234,6 +234,11 @@
    "id": "es-a2a",
    "file": "packs/es-a2a.js",
    "v": 1
+  },
+  {
+   "id": "es-a2b",
+   "file": "packs/es-a2b.js",
+   "v": 1
   }
  ]
 }
