@@ -89,6 +89,11 @@
    "id": "en-c2b",
    "file": "packs/en-c2b.js",
    "v": 1
+  },
+  {
+   "id": "en-c2c",
+   "file": "packs/en-c2c.js",
+   "v": 1
   }
  ]
 }
