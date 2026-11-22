@@ -134,6 +134,11 @@
    "id": "fr-b1a",
    "file": "packs/fr-b1a.js",
    "v": 1
+  },
+  {
+   "id": "fr-b1b",
+   "file": "packs/fr-b1b.js",
+   "v": 1
   }
  ]
 }
