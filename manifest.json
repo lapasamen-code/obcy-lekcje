@@ -274,6 +274,11 @@
    "id": "es-b1e",
    "file": "packs/es-b1e.js",
    "v": 1
+  },
+  {
+   "id": "es-b2a",
+   "file": "packs/es-b2a.js",
+   "v": 1
   }
  ]
 }
