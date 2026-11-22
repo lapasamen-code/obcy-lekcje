@@ -44,6 +44,11 @@
    "id": "en-b2b",
    "file": "packs/en-b2b.js",
    "v": 1
+  },
+  {
+   "id": "en-b2c",
+   "file": "packs/en-b2c.js",
+   "v": 1
   }
  ]
 }
