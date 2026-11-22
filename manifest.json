@@ -54,6 +54,11 @@
    "id": "en-b2d",
    "file": "packs/en-b2d.js",
    "v": 1
+  },
+  {
+   "id": "en-b2e",
+   "file": "packs/en-b2e.js",
+   "v": 1
   }
  ]
 }
