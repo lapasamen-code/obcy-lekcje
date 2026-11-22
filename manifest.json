@@ -1,1 +1,9 @@
-{"packs":[]}
+{
+ "packs": [
+  {
+   "id": "en-a2b",
+   "file": "packs/en-a2b.js",
+   "v": 1
+  }
+ ]
+}
